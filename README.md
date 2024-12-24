@@ -2,16 +2,20 @@
 an Operating System Final Project: re-implementing the basic command line interface of the Linux operating system with Python.
 
 ```
-    _   _ _       ___ _    ___ 
-   /_\ | (_)_ __ / __| |  |_ _|
-  / _ \| | | '  \ (__| |__ | | 
- /_/ \_\_|_|_|_|_\___|____|___|
+         _    _ _            ____ _     ___ 
+        / \  | (_)_ __ ___  / ___| |   |_ _|
+       / _ \ | | | '_ ` _ \| |   | |    | | 
+      / ___ \| | | | | | | | |___| |___ | | 
+     /_/   \_\_|_|_| |_| |_|\____|_____|___|
                                
 ```
-*cringiest, most alim and soleha file management CLI*
+<p style="text-align: center;">*cringiest, most alim and soleha file management CLI*</p>
 
 ## Usage
 make sure you have python 3 installed on your system
+1. clone or download the repository
+2. run the program
+
 ```bash
 python AlimCLI.py
 ```
