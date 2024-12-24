@@ -9,7 +9,7 @@ an Operating System Final Project: re-implementing the basic command line interf
      /_/   \_\_|_|_| |_| |_|\____|_____|___|
                                
 ```
-<p style="text-align: center;"><span class="italic">cringiest, most alim and soleha file management CLI</span></p>
+<p style="text-align: center;"><i>cringiest, most alim and soleha file management CLI</i></p>
 
 ## Usage
 make sure you have python 3 installed on your system
